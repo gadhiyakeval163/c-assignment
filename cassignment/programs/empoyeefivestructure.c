@@ -1,3 +1,4 @@
+//Q.28.Write a program of structure for five employee that provides the followinginformation -print and display empno, empname, address and age
 #include<stdio.h>
 struct employee{
 	int e_no;
